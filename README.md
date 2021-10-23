@@ -1,6 +1,6 @@
 ## **eItems**
 
-## **This is an offline file update to the Stockholm 2021 stickers. only update the sitckers、music-kit. but, if you  direct substitution it will not work,you need to change the "MAX_STICKERS"、"MAX_STICKERS_SETS" limit in \quasemago\csgo_weaponstickers\globals.inc, then recompile the main script . 
+## This is an offline file update to the Stockholm 2021 stickers. only update the sitckers、music-kit. but, if you  direct substitution it will not work,you need to change the "MAX_STICKERS"、"MAX_STICKERS_SETS" limit in \quasemago\csgo_weaponstickers\globals.inc, then recompile the main script . 
 https://github.com/WE3CS/CSGO_WeaponStickers**
 
 eItems is an API designed to provide extended information and functionality to the CSGO Item Economy.
