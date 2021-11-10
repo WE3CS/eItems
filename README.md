@@ -1,6 +1,6 @@
 ## **eItems**
 
-## This is an offline file update to the Stockholm 2021 stickers. only update the stickers、music-kit. but, if you  direct substitution it will not work,you need to change the "MAX_STICKERS"、"MAX_STICKERS_SETS" limit in \quasemago\csgo_weaponstickers\globals.inc, then recompile the main script . 
+## This is an offline file update to the Stockholm 2021 stickers with PLAYER SIGNATURE(2021-11-10).new music kits "Flashbang Dance". only update the stickers、music-kit. but, if you  direct substitution it will not work,you need to change the "MAX_STICKERS"、"MAX_STICKERS_SETS" limit in \quasemago\csgo_weaponstickers\globals.inc, then recompile the main script . 
 https://github.com/WE3CS/CSGO_WeaponStickers
 ## Since Valve last update， you also need to update the latest SM、 PTaH-V1.1.3 and RESTinPawn.
 
